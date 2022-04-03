@@ -4,7 +4,7 @@ Category: Architektur
 Description: Eine ganz besondere Uhr und eine Fassadengestaltung, die schon viele Epochen gesehen hat 
 
 ##Warum sind Rathäuser eigentlich so ein wichtiger Ort?
-Rathäuser sind repräsentatvie Gebäude und beherbergen meist den Verwaltungssitz einer Stadt oder Gemeinde. In der Regel werden sie auch als Sitzungs- oder Taungsorte genutzt. Alleine diese Begründung macht deutlich, das Rathäuser mehr sind, als nur zentral gelegene Gebäude sie in erster dienen unserer Gemeinschaft. 
+Rathäuser sind repräsentatvie Gebäude und beherbergen meist den Verwaltungssitz einer Stadt oder Gemeinde. In der Regel werden sie auch als Sitzungs- oder Taungsorte genutzt. Alleine diese Begründung macht deutlich, das Rathäuser mehr sind, als nur zentral gelegene Gebäude - sie deinen in erster Linie unserer Gemeinschaft. 
 
 Rathäuser gibt es schon seit der Antike, und dienten als Ort, an welchem ein Rat zusammen kommen konnte. Ab dem Mittelalter waren Rathhäuser wichtig, vor allem in Folge der Verleihung des Stadtrechts. Sie wurden darüber hinaus aber für unterschiedliche Zwecke genutzt. In den oberen Stockwerken waren zumeist die Säle für zusammenkünfte untergebracht, währen sich im Erdgeschoss häufig einer Art Markthalle befand. 
 

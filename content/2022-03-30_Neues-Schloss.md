@@ -37,7 +37,7 @@ Der staufische Löwe, befindet sich auf dem linken Podest (heraldisch, also auf 
 
 Das Wappen verweist übrigens durch die reduzierte Formensprache auf die Zeit nach 1817, was mit der Vollendung der Wappentiere um 1823 übereinstimmt. 
 
-##Ein Blick von hinter das Schloss schadet nicht
+##Ein Blick hinter das Schloss schadet nicht
 Das neue Schloss in Stuttgart mit seiner Parkanlage überzeugt nicht nur den repräsentativen vorderen Bereich der Gartenanlage. Über das gesamte Gelände verteilt, finden sich Wasserpsiele, Brunnen und Skuplturen. So auch hier: im Rücken des Neuen Schlosses befindet sich zunächst fast unscheinbar der von Nikolaus Thouret erbauter Brunnen. 1811 ließ König Friedrich den Hof der Carlsakademie damit schmücken. 
 ![Neues Schloss]({static}/images/2022-03-30_Neues-Schloss/20220323_145608.jpg)
 
