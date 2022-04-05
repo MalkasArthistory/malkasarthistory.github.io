@@ -1,8 +1,7 @@
-Title: Eine weitere schöne Villa in Esslingen
-Date: 2022-04-03 10:20
+Title: Fabrikantenvilla in Esslingen
+Date: 2022-04-05 10:20
 Category: Architektur
 Description: Villa und Weinberg lehnen sich aneinander an
-Status: Draft
 
 ##Fabrikantenvilla
 Vor ein paar Wochen habe ich bereits in einem Beitrag ein Plädoyer für die [Esslinger Villen]({filename}/2022-03-31_VillaPebra.md) und ihre wunderbare, sowie einzigartige Architektur gehalten.
