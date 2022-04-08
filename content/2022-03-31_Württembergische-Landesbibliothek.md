@@ -1,6 +1,6 @@
 Title: Württembergische Landesbibliothek in Stuttgart 
 Date: 2022-01-20 22:35
-Category: Architektur
+Category: architektur
 Description: Ein Neubau und ein Altbau - wie verbindet man diese beiden Gebäude miteinander? 
 
 ![Württembergische Landesbibliothek]({static}/images/2022-03-31_Württembergische-Landesbibliothek/20220113_161720LABI .jpg)

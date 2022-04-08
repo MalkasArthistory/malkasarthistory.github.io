@@ -1,6 +1,6 @@
 Title: Stadtmuseum Esslingen - Das gelbe Haus  
 Date: 2022-04-10 22:35
-Category: Architektur
+Category: architektur
 Description: Ein gelbes Haus mit viel(en) Geschichte(n) 
 Status: draft
 

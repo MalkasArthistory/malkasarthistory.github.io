@@ -1,6 +1,6 @@
 Title: Die Villa Pebra in Esslingen
 Date: 2022-02-07 14:16
-Category: Architektur
+Category: architektur
 Description: Esslingen und seine Villen  
 
 ##Esslingen und seine Villen 

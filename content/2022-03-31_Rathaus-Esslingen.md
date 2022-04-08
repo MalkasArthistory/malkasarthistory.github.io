@@ -1,6 +1,6 @@
 Title: Rathaus Esslingen
 Date: 2022-01-23 09:03
-Category: Architektur
+Category: architektur
 Description: Eine ganz besondere Uhr und eine Fassadengestaltung, die schon viele Epochen gesehen hat 
 
 ##Warum sind Rathäuser eigentlich so ein wichtiger Ort?

@@ -1,6 +1,6 @@
 Title: Schloss Bruchsal 
 Date: 2022-01-05 16:49
-Category: Architektur
+Category: architektur
 Description: Rokoko im Schloss und Johann Balthasar Neumann
 
 ##Das Schloss Bruchsal

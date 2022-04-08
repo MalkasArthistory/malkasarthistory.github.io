@@ -1,6 +1,6 @@
 Title: Pressenfabrik Fritz Müller in Esslingen
 Date: 2022-02-14 11:19
-Category: Architektur
+Category: architektur
 Description: Industriebau und ein vergessener Architekt 
 
 ![Pressenfabrik Fritz Müller]({static}/images/2022-03-30_Pressefabrik-Fritz-Müller/20220212_153937FM.jpg)

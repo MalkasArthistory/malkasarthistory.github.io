@@ -1,6 +1,6 @@
 Title: Wasserspeier 
 Date: 2022-03-16 14:05
-Category: Architektur
+Category: architektur
 Description: Wie sie gurgeln...
 
 ##Wasserspeier - nur Regenrinnen in grotesker Form? 

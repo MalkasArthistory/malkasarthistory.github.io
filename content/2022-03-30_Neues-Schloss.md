@@ -1,6 +1,6 @@
 Title: Das Neue Schloss in Stuttgart
 Date: 2022-03-31 11:19
-Category: Architektur
+Category: architektur
 Description: Heraldik und Architektur - was haben diese zwei Begriffe miteinander zu tun? 
 
 ##Das Neue Schloss 

@@ -1,6 +1,6 @@
 Title: Großherzoglich-Badische Grabkapelle in Karlsruhe
 Date: 2022-01-17 23:31
-Category: Architektur
+Category: architektur
 Description: Historismus und seine dekorative Vielfalt - oder was ist so "Neo" daran?
 
 ![Großherzoglich-Badische Grabkapelle]({static}/images/2022-03-31_Grabkapelle/IMG_4686Karlsruhe.JPG)

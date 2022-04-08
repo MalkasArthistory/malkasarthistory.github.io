@@ -1,6 +1,6 @@
 Title: Das Niederwalddenkmal in Rüdesheim 
 Date: 2022-04-08 17:03
-Category: Architektur
+Category: architektur
 Description: Die Problematik des Wortes "Denkmal"  
 
 

@@ -1,6 +1,6 @@
 Title: Haus Mašek in Prag
 Date: 2022-01-04 11:49
-Category: Architektur
+Category: architektur
 Description: Bauplastik am Haus Mašek
 
 ##Was ist eine Bauplastik?

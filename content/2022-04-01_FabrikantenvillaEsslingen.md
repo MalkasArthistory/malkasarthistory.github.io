@@ -1,6 +1,6 @@
 Title: Fabrikantenvilla in Esslingen
 Date: 2022-04-05 10:20
-Category: Architektur
+Category: architektur
 Description: Villa und Weinberg lehnen sich aneinander an
 
 ##Fabrikantenvilla

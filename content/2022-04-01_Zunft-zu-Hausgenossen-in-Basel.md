@@ -1,6 +1,6 @@
 Title: Zunft zu Hausgenossen in Basel 
 Date: 2022-03-13 10:03
-Category: Architektur
+Category: architektur
 Description: Zunft, Allegorie und Sgraffitotechnik - das alles vereint das Gebäude der Zunft zu Hausgenossen in Basel 
 
 ##Was ist eigentlich eine Zunft? 

@@ -1,6 +1,6 @@
 Title: Schloss Lichtenstein im Landkreis Reutlingen
 Date: 2022-03-31 11:19
-Category: Architektur
+Category: architektur
 Description: Heraldik und Architektur - was haben diese zwei Begriffe miteinander zu tun? 
 Status: Draft
 
