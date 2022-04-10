@@ -1,8 +1,7 @@
-Title: Stadtmuseum Esslingen - Das gelbe Haus  
-Date: 2022-04-10 22:35
+Title: Stadtmuseum Esslingen - Das Gelbe Haus  
+Date: 2022-04-10 23:35
 Category: architektur
 Description: Ein gelbes Haus mit viel(en) Geschichte(n) 
-Status: draft
 
 
 ![StadtmuseumEsslingen]({static}/images/2022-04-10_Stadtmuseum Esslingen/20220405_155002.jpg)
@@ -20,9 +19,9 @@ Die Innenarchitektur des Museum reicht bis in das 13. Jahrhundert zurück. Der K
 ![StadtmuseumEsslingen]({static}/images/2022-04-10_Stadtmuseum Esslingen/20220405_155049.jpg)
 
 ##Das Gelbe Haus
-1630 wurde das Gelbe Haus für 1074 Gulden von den beiden einzigen überlebenden Kindern des Mathias Herwarth, Truchseß des Herzog Friedrichs von Württemberg, an den Wirt Michel Romay verkauft. Bis 1639 ist es in seinem Besitz und dem seines Bruders Jakob. Uber die nächsten Jahrhunderte hinweg tauchen in der Historie immer wieder Familiennamen und neue Besitzer auf. Ab 1734 bis 1785 befindet sich das Gelbe Haus aber auch das Nachbargebäude im Besitz der Familie Schloßberg.  
+1630 wurde das Gelbe Haus für 1074 Gulden von den beiden einzigen überlebenden Kindern des Mathias Herwarth, Truchseß des Herzog Friedrichs von Württemberg, an den Wirt Michel Romay verkauft. Bis 1639 ist es in seinem Besitz und dem seines Bruders Jakob. Uber die nächsten Jahrhunderte hinweg tauchen in der Historie immer wieder Familiennamen und neue Besitzer auf. Ab 1734 bis 1785 befand sich das Gelbe Haus, aber auch das Nachbargebäude, im Besitz der Familie Schloßberg.  
 
-Darauffolgend schmücken der Jurist Erhard Friedrich Weinland und seine Frau Johanna Maria, den Eingang mit ihrem Wappen und dem lateinischen Spruch "Hominibus non,Deo confide." (Nicht den Menschen, Gott vertraue.). Darüber hinaus hielt Weinland fest, dass das Gelbe Haus nun Familienfideikommiss sei. Dies bedeutet, dass das Gebäude immer nur einer Person vererbt werden durfte und nicht verkauft werden konnte. Bis 1963 wurde das Gebäude in der Familie Weinland weitergegeben. Erst nach dem  Auguste Weinland kinderlos verstarb, gehörte das Gelbe Haus der Stadt Esslingen. 
+Darauffolgend schmückten der Jurist Erhard Friedrich Weinland und seine Frau Johanna Maria, den Eingang mit ihrem Wappen und dem lateinischen Spruch "Hominibus non,Deo confide." (Nicht den Menschen, Gott vertraue.). Darüber hinaus hielt Weinland fest, dass das Gelbe Haus nun Familienfideikommiss sei. Dies bedeutet, dass das Gebäude immer nur einer Person vererbt werden durfte und nicht verkauft werden konnte. Bis 1963 wurde das Gebäude in der Familie Weinland weitergegeben. Erst nach dem Auguste Weinland kinderlos verstarb, ging das Gelbe Haus in den Besitz der Stadt Esslingen über. 
 
 ![StadtmuseumEsslingen]({static}/images/2022-04-10_Stadtmuseum Esslingen/20220405_155030.jpg)
 
@@ -42,7 +41,7 @@ Doch damit noch nicht genug. 1837 kaufte das Gebäude Jakob Ferdinand Schreiber 
 
 1912 wurde das Haus zum offiziellen Polizeigebäude der Stadt Esslingen. 
 
-Erst nach gundlegenden Sanierungen wurde die Gebäude am Hafenmarkt 7 und das Gelbe Haus 1989 zum heutigen Stadtmuseum. 
+Erst nach grundlegenden Sanierungen wurden die Gebäude am Hafenmarkt 7 und das Gelbe Haus 1989 zum heutigen Stadtmuseum. 
 
 ##Von Stammbäumen und der Historie zweier Gebäude
 Puuuh! Denkt ihr euch jetzt bestimmt. So viele Namen, so viele Verkäufe, Verträge und neue Bewohner der beiden Häuser. Ist es im Endeffekt nicht egal, wer wann welchen Teil kaufte und wieder vererbte? 

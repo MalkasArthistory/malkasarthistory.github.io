@@ -2,7 +2,6 @@ Title: Fototour im Mai
 Date: 2022-05-07 17:00
 Category: aktuelles
 Description: Fototour und Stadtführung durch Esslingen 
-Status: draft 
 
 ##"Perspektivenwechsel"
 ###"Die historische Altstadt fotografieren"
